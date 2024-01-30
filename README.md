@@ -14,3 +14,8 @@ Feel free to reach out or follow me on these platforms to stay updated on my pro
 - Programming Languages: [C, C++, Lua, Python, Ruby, ReactJS, ExpressJS, Terraform]
 
 Thanks for visiting my profile!
+
+# GitHub Stats
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?yxng-hrz=yxng-hrz&show_icons=true&theme=radical)
