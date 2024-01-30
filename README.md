@@ -1,4 +1,16 @@
-### Hi there 👋
+# Welcome to my GitHub profile!
 
-[![](https://img.shields.io/badge/-@yxng-hrz-%23181717?style=flat-square&logo=github)](https://github.com/yxng-hrz)
-[![](https://img.shields.io/badge/-Daniaal%20Nadir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillaume-houriez/)](https://www.linkedin.com/in/guillaume-houriez/)
+Hello I'm Guillaume Houriez, a passionate in cyber security, enthusiast. You can also find me on other platforms.
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/guillaume-houriez-7424b9206)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green?style=flat&logo=github)](https://github.com/yxng-hrz)
+
+Feel free to reach out or follow me on these platforms to stay updated on my projects and activities.
+
+## Skills
+
+- Programming Languages: [C, C++, Lua, Python, Ruby, ReactJS, ExpressJS, Terraform]
+
+Thanks for visiting my profile!
