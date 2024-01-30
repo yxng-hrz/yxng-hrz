@@ -18,4 +18,4 @@ Thanks for visiting my profile!
 # GitHub Stats
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?yxng-hrz=yxng-hrz&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yxng-hrz&show_icons=true&theme=radical)
