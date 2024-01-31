@@ -15,6 +15,11 @@ Feel free to reach out or follow me on these platforms to stay updated on my pro
 
 Thanks for visiting my profile!
 
+# Top Languages
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yxng-hrz&layout=compact)
+
 # GitHub Stats
 
 <!-- GitHub Stats -->
