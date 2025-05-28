@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile!
 
 Hello I'm Guillaume Houriez, a passionate in cyber security, enthusiast. You can also find me on other platforms.
+Currently pursuing a Master’s degree in Expert Systems Architecture, Networks, and IT Security at ESGI Paris.
 
 ## Get in Touch
 
@@ -25,7 +26,11 @@ Feel free to reach out or follow me on these platforms to stay updated on my pro
   - CCNA 1 (Cisco)
 - Languages: French (native), English (B2 - TOEIC 750), Chinese (HSK3)
 
-Thanks for visiting my profile!
+## Education
+
+- Master’s in Systems Architecture, Networks, and Security - ESGI Paris (2025 - 2027)  
+- Bachelor in Systems, Networks & Security Project Management - ESGI Paris (2024 - 2025)  
+- Epitech Paris - Programming Systems, Networks, AI, DevOps, Security (2022 - 2024)  
 
 # Top Languages
 
@@ -36,3 +41,7 @@ Thanks for visiting my profile!
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yxng-hrz&show_icons=true&theme=radical)
+
+## Contact
+
+I’m always open to networking, collaboration, and new opportunities. Feel free to connect with me on LinkedIn or send me an email (guillaume.houriez75@gmail.com)!
