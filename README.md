@@ -11,7 +11,19 @@ Feel free to reach out or follow me on these platforms to stay updated on my pro
 
 ## Skills
 
-- Programming Languages: [C, C++, Lua, Python, Ruby, ReactJS, ExpressJS, Terraform]
+- Programming Languages & Frameworks: C, C++, Python, Shell, Ruby, Lua, Terraform, React, Django, Haskell, TypeScript
+- Systems & Networks: Linux Administration, Windows Server, Network Security, Cloud Computing (Azure AD, AWS), Network Defense, Firewalls (Fortigate, Nginx)
+- Security & Cybersecurity: Vulnerability Detection, Defensive Security, Hardening Operating Systems, Cyber Threat Management, Endpoint Security (Cisco Certified), Forensic Analysis, Web Security
+- DevOps & Automation: Infrastructure Automation, Deployment Pipelines, Containerization, Continuous Integration/Continuous Deployment (CI/CD)
+- Tools & Technologies: Wireshark, Putty, Vcenter, DNS management, BeyondTrust, F5 Distributed Cloud App (WAF)
+- Certifications:
+  - AI Through Visualization (Columbia University)
+  - Endpoint Security (Cisco)
+  - Network Defense (Cisco)
+  - Rapid7 Technical Sales Associate (IVM)
+  - Cyber Threat Management (Cisco)
+  - CCNA 1 (Cisco)
+- Languages: French (native), English (B2 - TOEIC 750), Chinese (HSK3)
 
 Thanks for visiting my profile!
 
