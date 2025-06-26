@@ -20,12 +20,13 @@ Feel free to reach out or follow me on these platforms to stay updated on my pro
 - **DevOps & Automation**: Infrastructure Automation, Deployment Pipelines, Containerization, Continuous Integration/Continuous Deployment (CI/CD)  
 - **Tools & Technologies**: Wireshark, Putty, Vcenter, DNS management, BeyondTrust, F5 Distributed Cloud App (WAF)  
 - **Certifications**:
+  - Google Cybersecurity
   - AI Through Visualization (Columbia University)
   - Endpoint Security (Cisco)
   - Network Defense (Cisco)
   - Rapid7 Technical Sales Associate (IVM)
   - Cyber Threat Management (Cisco)
-  - CCNA 1 (Cisco)
+  - CCNA 1 & 3(Cisco)
 - **Languages**: French (native), English (B2 - TOEIC 750), Chinese (HSK3)
 
 ## Education
