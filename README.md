@@ -48,6 +48,11 @@ Feel free to reach out or follow me on these platforms to stay updated on my pro
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yxng-hrz&theme=radical)
 
 
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yxng-hrz&theme=radical&column=4)
+
+
 ## Contact
 
 I’m always open to networking, collaboration, and new opportunities. Feel free to connect with me on LinkedIn or send me an email (guillaume.houriez75@gmail.com)!
