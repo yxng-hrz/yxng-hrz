@@ -43,6 +43,11 @@ Feel free to reach out or follow me on these platforms to stay updated on my pro
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yxng-hrz&show_icons=true&theme=radical)
 
+## 🗺️ GitHub Contribution Map
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yxng-hrz&theme=radical)
+
+
 ## Contact
 
 I’m always open to networking, collaboration, and new opportunities. Feel free to connect with me on LinkedIn or send me an email (guillaume.houriez75@gmail.com)!
