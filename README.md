@@ -57,7 +57,7 @@ MFA PoC for Bastion; R&D immersion.
 
 ## 🎓 Education
 
-**MSc Cybersecurity — ESGI Paris** *(2025–2027, in progress)*  
+**Master's Cybersecurity — ESGI Paris** *(2025–2027, in progress)*  
 Red Team & malware, governance/risk (ISO 27001/27005, EBIOS), incident response, crypto, Cloud & IAM.
 
 **Bachelor Cybersecurity — ESGI Paris** *(2024–2025)*  
