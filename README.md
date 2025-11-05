@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 
 Hello I'm Guillaume Houriez, a passionate in cyber security, enthusiast. You can also find me on other platforms.  
-Currently pursuing a Master’s degree in Expert Systems Architecture, Networks, and IT Security at ESGI Paris.
+Currently pursuing a Master’s degree in CyberSecurity at ESGI Paris.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yxng-hrz&style=flat&color=blue)
 
@@ -11,47 +11,95 @@ Currently pursuing a Master’s degree in Expert Systems Architecture, Networks,
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green?style=flat&logo=github)](https://github.com/yxng-hrz)
 
 Feel free to reach out or follow me on these platforms to stay updated on my projects and activities.
+📧 **guillaume.houriez75@gmail.com**  
+📍 Paris, France
 
-## Skills
+---
 
-- **Programming Languages & Frameworks**: C, C++, Python, Shell, Ruby, Lua, Terraform, React, Django, Haskell, TypeScript  
-- **Systems & Networks**: Linux Administration, Windows Server, Network Security, Cloud Computing (Azure AD, AWS), Network Defense, Firewalls (Fortigate, Nginx)  
-- **Security & Cybersecurity**: Vulnerability Detection, Defensive Security, Hardening Operating Systems, Cyber Threat Management, Endpoint Security (Cisco Certified), Forensic Analysis, Web Security  
-- **DevOps & Automation**: Infrastructure Automation, Deployment Pipelines, Containerization, Continuous Integration/Continuous Deployment (CI/CD)  
-- **Tools & Technologies**: Wireshark, Putty, Vcenter, DNS management, BeyondTrust, F5 Distributed Cloud App (WAF)  
-- **Certifications**:
-  - Google Cybersecurity
-  - AI Through Visualization (Columbia University)
-  - Endpoint Security (Cisco)
-  - Network Defense (Cisco)
-  - Rapid7 Technical Sales Associate (IVM)
-  - Cyber Threat Management (Cisco)
-  - CCNA 1 & 3(Cisco)
-- **Languages**: French (native), English (B2 - TOEIC 750), Chinese (HSK3)
+## 💼 Experience
 
-## Education
+**Information Security Assistant — Dastra** *(Sep 2025 – Present, Paris)*  
+GRC support (GDPR/ISO 27001/27701), risk tracking, policies/PSSI, awareness.
 
-- Master’s in Systems Architecture, Networks, and Security - ESGI Paris (2025 - 2027)  
-- Bachelor in Systems, Networks & Security Project Management - ESGI Paris (2024 - 2025)  
-- Epitech Paris - Programming Systems, Networks, AI, DevOps, Security (2022 - 2024)  
+**Network & Systems Admin — Protection Civile française** *(Oct 2024 – Sep 2025, Paris)*  
+Infra ops & monitoring, IAM/user lifecycle, audits, endpoint/server deployment.
 
-# Top Languages
+**Ambassador — ESGI** *(Sep 2024 – Present, Paris)*  
+School promotion at fairs and open days.
+
+**Ambassador — Epitech** *(Sep 2022 – Aug 2024, Paris)*  
+School events, guidance for prospective students.
+
+**Hackathon — Mistral AI** *(Mar 2024, Paris)*  
+Team-built marketing chatbot (React, TypeScript).
+
+**Chatbot Developer — Sisley Paris** *(Jan 2024, Remote)*  
+Led a 4-person team; ReactJS + ExpressJS chatbot.
+
+**Systems Integration Engineer — ACKnowledge** *(Jul 2023 – Dec 2023, Paris)*  
+WAF deployment (F5), IaC (Terraform, GitHub Actions, Ansible AWX), Azure AD/AWS, Palo Alto→FortiGate migration.
+
+**Security Intern — WALLIX** *(May 2019, Paris)*  
+MFA PoC for Bastion; R&D immersion.
+
+---
+
+## 🧪 Skills
+
+**Languages/Frameworks:** C, C++, Python, Shell, Ruby, Lua, TypeScript, React, Django, Terraform, Haskell  
+**Systems/Networks:** Linux, Windows Server, virtualization, FortiGate, Nginx, monitoring, Wi-Fi security  
+**Security:** risk management, OS hardening, vuln detection, Threat & Endpoint Security, WAF, web security  
+**Cloud & IAM:** Azure AD, AWS, identity/governance  
+**DevOps/Automation:** IaC, CI/CD, GitHub/GitLab, Ansible AWX  
+**Tools:** Wireshark, PuTTY, vCenter, DNS mgmt, BeyondTrust, F5 Distributed Cloud App
+
+---
+
+## 🎓 Education
+
+**MSc Cybersecurity — ESGI Paris** *(2025–2027, in progress)*  
+Red Team & malware, governance/risk (ISO 27001/27005, EBIOS), incident response, crypto, Cloud & IAM.
+
+**Bachelor Cybersecurity — ESGI Paris** *(2024–2025)*  
+Advanced Linux, crypto, network/system security, Git security, Python scripting.
+
+**Epitech Paris — L2** *(2022–2024)*  
+Systems & network programming, AI, DevOps & Cloud.
+
+**Technological Baccalaureate (Math & CS)** *(2020–2022)* — Honors.
+
+**Epitech Coding Club** *(2019–2020)*  
+Monthly mini-projects (Lua, Ruby, Python, C).
+
+**Columbia University — Learning AI Through Visualization** *(Feb–May 2025)*
+
+---
+
+## 🏅 Certifications (selected)
+
+MOOC ANSSI (Sep 2025) · CCNA: Introduction to Networks (Jul 2025) ·  
+Google Cybersecurity Professional (May 2025) · LinkedIn: Managing Cybersecurity Incidents (Mar 2025) ·  
+ISC2 Cybersecurity (CC) — Udemy (Feb 2025) · CyberRace Europe — Cisco × McLaren (Jan 2025, 3rd EU) ·  
+OpenClassrooms: Legal Risks in Digital (Jan 2025) ·  
+Cisco NetAcad: Cyber Threat Management (Nov 2024), Endpoint Security (Nov 2024), Network Defense (Nov 2024),  
+Introduction to Cybersecurity (Oct 2024), Computer Hardware Basics (Oct 2024) ·  
+BeyondTrust Certified Sales Professional (Sep 2023) · Rapid7 IVM Technical Sales Associate (Sep 2023) ·  
+Pentera Sales & Technical “Tell” (Sep 2023) · PSC1 First Aid (Nov 2024)
+
+---
+
+## 🌍 Languages
+
+French (native) · English (B2, TOEIC 750) · Chinese (HSK3)
+
+---
+
+# Github
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yxng-hrz&layout=compact)
-
-# GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yxng-hrz&show_icons=true&theme=radical)
-
-## 🗺️ GitHub Contribution Map
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yxng-hrz&theme=radical)
-
-
-## 🏆 GitHub Trophies
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yxng-hrz&theme=radical&column=4)
-
 
 ## Contact
 
