@@ -98,7 +98,6 @@ French (native) · English (B2, TOEIC 750) · Chinese (HSK3)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yxng-hrz&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yxng-hrz&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yxng-hrz&theme=radical)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yxng-hrz&theme=radical&column=4)
 
 ## Contact
