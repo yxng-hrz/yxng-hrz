@@ -79,7 +79,7 @@ MFA PoC for Bastion; R&D immersion.
 ** *(2025–2027, in progress)*  
 Red Team & malware, governance/risk (ISO 27001/27005, EBIOS), incident response, crypto, Cloud & IAM.
 
-**[![Columbia University](https://img.shields.io/badge/Course-Columbia%20University-1F4E79?style=flat)](https://www.columbia.edu/)
+**[![Columbia University](https://img.shields.io/badge/Course-Columbia%20University-003A70?style=flat)](https://www.columbia.edu/)
  — Learning AI Through Visualization** *(Feb–May 2025)*
 
 **Bachelor Cybersecurity — [![ESGI](https://img.shields.io/badge/School-ESGI%20Paris-003A70?style=flat)](https://www.esgi.fr/)
@@ -108,9 +108,9 @@ Pentera Sales & Technical “Tell” (Sep 2023) · PSC1 First Aid (Nov 2024)
 
 ## 🌍 Languages
 
-[![French](https://img.shields.io/badge/Language-French%20(native)-orange?style=flat)](https://fr.wikipedia.org/wiki/Fran%C3%A7ais)
+[![French](https://img.shields.io/badge/Language-French%20(native)-purple?style=flat)](https://fr.wikipedia.org/wiki/Fran%C3%A7ais)
 [![English](https://img.shields.io/badge/Language-English%20(B2)-purple?style=flat&logo=bbc&logoColor=white)](https://www.etsglobal.org/)
-[![Chinese](https://img.shields.io/badge/Language-Chinese%20(HSK3)-red?style=flat)](https://www.chinesetest.cn/)
+[![Chinese](https://img.shields.io/badge/Language-Chinese%20(HSK3)-purple?style=flat)](https://www.chinesetest.cn/)
 
 ---
 
