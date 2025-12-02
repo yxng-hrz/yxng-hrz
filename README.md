@@ -86,7 +86,7 @@ Red Team & malware, governance/risk (ISO 27001/27005, EBIOS), incident response,
 ** *(2024–2025)*  
 Advanced Linux, crypto, network/system security, Git security, Python scripting.
 
-**Bachelor’s Degree in Computer Engineering (2nd Year) — [![Epitech](https://img.shields.io/badge/School-Epitech%20Paris-002654?style=flat)](https://www.epitech.eu/) ** *(2022–2024)*  
+**Bachelor’s Degree in Computer Engineering (2nd Year) — [![Epitech](https://img.shields.io/badge/School-Epitech%20Paris-003A70?style=flat)](https://www.epitech.eu/) ** *(2022–2024)*  
 Systems & network programming, AI, DevOps & Cloud.
 
 **Technological Baccalaureate (Math & CS)** *(2020–2022)* — Honors.
