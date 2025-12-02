@@ -3,12 +3,17 @@
 Hello I'm Guillaume Houriez, a passionate in cyber security, enthusiast. You can also find me on other platforms.  
 Currently pursuing a Master’s degree in CyberSecurity at ESGI Paris.
 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=yxng-hrz&style=flat&color=blue)
 
 ## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillaume-houriez-7424b9206)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green?style=flat&logo=github)](https://github.com/yxng-hrz)
+[![Email](https://img.shields.io/badge/Email-guillaume.houriez75%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:guillaume.houriez75@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Paris%2C%20France-lightgrey?style=flat&logo=google-maps)](https://www.google.com/maps/place/Paris)
+
 
 Feel free to reach out or follow me on these platforms to stay updated on my projects and activities.
 📧 **guillaume.houriez75@gmail.com**  
@@ -90,8 +95,9 @@ Pentera Sales & Technical “Tell” (Sep 2023) · PSC1 First Aid (Nov 2024)
 
 ## 🌍 Languages
 
-French (native) · English (B2, TOEIC 750) · Chinese (HSK3)
-
+[![French](https://img.shields.io/badge/Language-French%20(native)-blue?style=flat)](https://fr.wikipedia.org/wiki/Fran%C3%A7ais)
+[![English](https://img.shields.io/badge/Language-English%20(B2)-blue?style=flat&logo=bbc&logoColor=white)](https://www.etsglobal.org/)
+[![Chinese](https://img.shields.io/badge/Language-Chinese%20(HSK3)-red?style=flat)](https://www.chinesetest.cn/)
 ---
 
 ## 📊 GitHub
