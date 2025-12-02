@@ -11,13 +11,11 @@ Currently pursuing a Master’s degree in CyberSecurity at ESGI Paris.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillaume-houriez-7424b9206)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green?style=flat&logo=github)](https://github.com/yxng-hrz)
-[![Email](https://img.shields.io/badge/Email-guillaume.houriez75%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:guillaume.houriez75@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Paris%2C%20France-lightgrey?style=flat&logo=google-maps)](https://www.google.com/maps/place/Paris)
 
 
 Feel free to reach out or follow me on these platforms to stay updated on my projects and activities.
-📧 **guillaume.houriez75@gmail.com**  
-📍 Paris, France
+[![Email](https://img.shields.io/badge/Email-guillaume.houriez75%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:guillaume.houriez75@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Paris%2C%20France-lightgrey?style=flat&logo=google-maps)](https://www.google.com/maps/place/Paris)
 
 ---
 
@@ -65,6 +63,9 @@ MFA PoC for Bastion; R&D immersion.
 **Master's Cybersecurity — ESGI Paris** *(2025–2027, in progress)*  
 Red Team & malware, governance/risk (ISO 27001/27005, EBIOS), incident response, crypto, Cloud & IAM.
 
+**[![Columbia University](https://img.shields.io/badge/Course-Columbia%20University-1F4E79?style=flat)](https://www.columbia.edu/)
+ — Learning AI Through Visualization** *(Feb–May 2025)*
+
 **Bachelor Cybersecurity — ESGI Paris** *(2024–2025)*  
 Advanced Linux, crypto, network/system security, Git security, Python scripting.
 
@@ -72,11 +73,6 @@ Advanced Linux, crypto, network/system security, Git security, Python scripting.
 Systems & network programming, AI, DevOps & Cloud.
 
 **Technological Baccalaureate (Math & CS)** *(2020–2022)* — Honors.
-
-**Epitech Coding Club** *(2019–2020)*  
-Monthly mini-projects (Lua, Ruby, Python, C).
-
-**Columbia University — Learning AI Through Visualization** *(Feb–May 2025)*
 
 ---
 
