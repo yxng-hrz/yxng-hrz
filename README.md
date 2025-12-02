@@ -97,13 +97,13 @@ French (native) · English (B2, TOEIC 750) · Chinese (HSK3)
 ## 📊 GitHub
 
 <!-- Langages les plus utilisés -->
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yxng-hrz&theme=github)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yxng-hrz&theme=tokyonight)
 
 <!-- Score / stats globales du profil -->
-![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yxng-hrz&theme=github)
+![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yxng-hrz&theme=tokyonight)
 
-<!-- Carte bonus : quand tu es le plus productif -->
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yxng-hrz&theme=github)
+<!-- Stats globales détaillées (activité, commits, contributions…) -->
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxng-hrz&theme=tokyonight)
 
 ---
 
