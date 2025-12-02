@@ -96,33 +96,16 @@ French (native) · English (B2, TOEIC 750) · Chinese (HSK3)
 
 ## 📊 GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yxng-hrz&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
-    alt="GitHub Stats"
-  />
-</p>
+<!-- Langages les plus utilisés -->
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yxng-hrz&theme=github)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxng-hrz&layout=compact&hide_border=true&theme=transparent"
-    alt="Top Languages"
-  />
-</p>
+<!-- Score / stats globales du profil -->
+![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yxng-hrz&theme=github)
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yxng-hrz&hide_border=true&theme=transparent"
-    alt="GitHub Streak"
-  />
-</p>
+<!-- Carte bonus : quand tu es le plus productif -->
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yxng-hrz&theme=github)
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yxng-hrz&hide_border=true&theme=github"
-    alt="GitHub Activity Graph"
-  />
-</p>
+---
 
 ## Contact
 
