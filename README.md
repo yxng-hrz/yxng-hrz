@@ -108,8 +108,8 @@ Pentera Sales & Technical “Tell” (Sep 2023) · PSC1 First Aid (Nov 2024)
 
 ## 🌍 Languages
 
-[![French](https://img.shields.io/badge/Language-French%20(native)-blue?style=flat)](https://fr.wikipedia.org/wiki/Fran%C3%A7ais)
-[![English](https://img.shields.io/badge/Language-English%20(B2)-blue?style=flat&logo=bbc&logoColor=white)](https://www.etsglobal.org/)
+[![French](https://img.shields.io/badge/Language-French%20(native)-orange?style=flat)](https://fr.wikipedia.org/wiki/Fran%C3%A7ais)
+[![English](https://img.shields.io/badge/Language-English%20(B2)-purple?style=flat&logo=bbc&logoColor=white)](https://www.etsglobal.org/)
 [![Chinese](https://img.shields.io/badge/Language-Chinese%20(HSK3)-red?style=flat)](https://www.chinesetest.cn/)
 
 ---
