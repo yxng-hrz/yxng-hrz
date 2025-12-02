@@ -50,7 +50,20 @@ MFA PoC for Bastion; R&D immersion.
 
 ## 🧪 Skills
 
-**Languages/Frameworks:** C, C++, Python, Shell, Ruby, Lua, TypeScript, React, Django, Terraform, Haskell  
+**Languages/Frameworks:** 
+[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)](https://github.com/yxng-hrz)
+[![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B)](https://github.com/yxng-hrz)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/yxng-hrz)
+[![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnu-bash)](https://github.com/yxng-hrz)
+[![Ruby](https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby)](https://github.com/yxng-hrz)
+[![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)](https://github.com/yxng-hrz)
+[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://github.com/yxng-hrz)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/yxng-hrz)
+[![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)](https://github.com/yxng-hrz)
+[![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform)](https://github.com/yxng-hrz)
+[![Haskell](https://img.shields.io/badge/Haskell-black?style=for-the-badge&logo=haskell)](https://github.com/yxng-hrz)
+
+
 **Systems/Networks:** Linux, Windows Server, virtualization, FortiGate, Nginx, monitoring, Wi-Fi security  
 **Security:** risk management, OS hardening, vuln detection, Threat & Endpoint Security, WAF, web security  
 **Cloud & IAM:** Azure AD, AWS, identity/governance  
@@ -97,6 +110,7 @@ Pentera Sales & Technical “Tell” (Sep 2023) · PSC1 First Aid (Nov 2024)
 [![French](https://img.shields.io/badge/Language-French%20(native)-blue?style=flat)](https://fr.wikipedia.org/wiki/Fran%C3%A7ais)
 [![English](https://img.shields.io/badge/Language-English%20(B2)-blue?style=flat&logo=bbc&logoColor=white)](https://www.etsglobal.org/)
 [![Chinese](https://img.shields.io/badge/Language-Chinese%20(HSK3)-red?style=flat)](https://www.chinesetest.cn/)
+
 ---
 
 ## 📊 GitHub
@@ -106,6 +120,8 @@ Pentera Sales & Technical “Tell” (Sep 2023) · PSC1 First Aid (Nov 2024)
 ![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yxng-hrz&theme=tokyonight)
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxng-hrz&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yxng-hrz&hide_border=true&theme=transparent)
 
 ---
 
