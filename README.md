@@ -102,17 +102,14 @@ Pentera Sales & Technical “Tell” (Sep 2023) · PSC1 First Aid (Nov 2024)
 
 ## 📊 GitHub
 
-<!-- Langages les plus utilisés -->
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yxng-hrz&theme=tokyonight)
 
-<!-- Score / stats globales du profil -->
 ![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yxng-hrz&theme=tokyonight)
 
-<!-- Stats globales détaillées (activité, commits, contributions…) -->
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxng-hrz&theme=tokyonight)
 
 ---
 
 ## Contact
 
-I’m always open to networking, collaboration, and new opportunities. Feel free to connect with me on LinkedIn or send me an email (guillaume.houriez75@gmail.com)!
+I’m always open to networking, collaboration, and new opportunities. Feel free to connect with me on LinkedIn or send me an email [![Email](https://img.shields.io/badge/Email-guillaume.houriez75%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:guillaume.houriez75@gmail.com)!
