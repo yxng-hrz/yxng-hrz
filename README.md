@@ -122,7 +122,7 @@ Pentera Sales & Technical “Tell” (Sep 2023) · PSC1 First Aid (Nov 2024)
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxng-hrz&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yxng-hrz&hide_border=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=yxng-hrz&theme=tokyonight&hide_border=true)
 
 ---
 
