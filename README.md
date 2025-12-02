@@ -1,7 +1,8 @@
 # Welcome to my GitHub profile!
 
 Hello I'm Guillaume Houriez, a passionate in cyber security, enthusiast. You can also find me on other platforms.  
-Currently pursuing a Master’s degree in CyberSecurity at ESGI Paris.
+Currently pursuing a Master’s degree in CyberSecurity at [![ESGI](https://img.shields.io/badge/School-ESGI%20Paris-003A70?style=flat)](https://www.esgi.fr/)
+.
 
 
 
