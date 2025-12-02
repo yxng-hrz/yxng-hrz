@@ -94,11 +94,35 @@ French (native) · English (B2, TOEIC 750) · Chinese (HSK3)
 
 ---
 
-# Github
+## 📊 GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yxng-hrz&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yxng-hrz&show_icons=true&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=yxng-hrz&theme=radical&column=4)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yxng-hrz&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxng-hrz&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yxng-hrz&hide_border=true&theme=transparent"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yxng-hrz&hide_border=true&theme=github"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ## Contact
 
