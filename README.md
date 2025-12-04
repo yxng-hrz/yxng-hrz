@@ -20,34 +20,6 @@ Feel free to reach out or follow me on these platforms to stay updated on my pro
 
 ---
 
-## 💼 Experience
-
-**Information Security Assistant — Dastra** *(Sep 2025 – Present, Paris)*  
-GRC support (GDPR/ISO 27001/27701), risk tracking, policies/PSSI, awareness.
-
-**Network & Systems Admin — Protection Civile française** *(Oct 2024 – Sep 2025, Paris)*  
-Infra ops & monitoring, IAM/user lifecycle, audits, endpoint/server deployment.
-
-**Ambassador — ESGI** *(Sep 2024 – Present, Paris)*  
-School promotion at fairs and open days.
-
-**Ambassador — Epitech** *(Sep 2022 – Aug 2024, Paris)*  
-School events, guidance for prospective students.
-
-**Hackathon — Mistral AI** *(Mar 2024, Paris)*  
-Team-built marketing chatbot (React, TypeScript).
-
-**Chatbot Developer — Sisley Paris** *(Jan 2024, Remote)*  
-Led a 4-person team; ReactJS + ExpressJS chatbot.
-
-**Systems Integration Engineer — ACKnowledge** *(Jul 2023 – Dec 2023, Paris)*  
-WAF deployment (F5), IaC (Terraform, GitHub Actions, Ansible AWX), Azure AD/AWS, Palo Alto→FortiGate migration.
-
-**Security Intern — WALLIX** *(May 2019, Paris)*  
-MFA PoC for Bastion; R&D immersion.
-
----
-
 ## 🧪 Skills
 
 **Languages/Frameworks:**    
